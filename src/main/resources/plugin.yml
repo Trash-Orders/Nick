@@ -1,0 +1,7 @@
+name: ${project.name}
+description: ${project.description}
+website: ${project.url}
+version: ${project.version}
+author: MrCubee
+api-version: 1.8.8
+main: fr.pots.nick.NickPlugin

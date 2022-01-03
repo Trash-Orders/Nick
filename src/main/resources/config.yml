@@ -1,0 +1,8 @@
+# Define the default language to be used by the plugin if the player's language is not defined.
+# Example:
+#     English (US) -> EN_us
+#     English (United Kingdom) -> EN_gb
+#     Francais (France) -> FR_fr
+#     Francais (Quebec) -> FR_ca
+# See: https://minecraft.fandom.com/wiki/Language
+default_lang: FR_fr
