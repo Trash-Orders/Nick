@@ -1,0 +1,2 @@
+command.must.player=&cYou must be a player to run this command.
+command.target.not_found=&cThe targeted player does not exist or is not online.

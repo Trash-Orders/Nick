@@ -5,3 +5,13 @@ version: ${project.version}
 author: MrCubee
 api-version: 1.8.8
 main: fr.pots.nick.NickPlugin
+
+commands:
+  nick:
+    description: Disguise yourself as a random player from the banned list.
+    permission: nick.use
+    aliases: [n, disguise]
+  unnick:
+    description: Remove your disguise.
+    permission: nick.use
+    aliases: [un, undisguise]
